@@ -2,7 +2,8 @@ import Product from '@/component/Product/Product';
 import React from 'react';
 
 const getProducts = async () => {
-    const res = await fetch('http://localhost:5000/products', {cache: 'force-cache'});
+    // const res = await fetch('http://localhost:5000/products', {cache: 'no-store'});
+    const res = await fetch('http://localhost:5000/products', {next: {revalidate: 20}});
     if (!res.ok) {
         throw new Error('Something Wrong')
     }

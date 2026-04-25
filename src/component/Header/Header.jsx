@@ -10,6 +10,7 @@ const Header = () => {
         <li><Link className={`${pathname === '/home' ? 'text-blue-500' : ''}`} href={"/home"}>Home</Link></li>
         <li><Link className={`${pathname === '/posts' ? 'text-blue-500' : ''}`} href={"/posts"}>Posts</Link></li>
         <li><Link className={`${pathname === '/products' ? 'text-blue-500' : ''}`} href={"/products"}>Products</Link></li>
+        <li><Link className={`${pathname === '/books' ? 'text-blue-500' : ''}`} href={"/books"}>Books</Link></li>
         <li><Link className={`${pathname === '/about' ? 'text-blue-500' : ''}`} href={"/about"}>About</Link></li>
         <li><Link className={`${pathname === '/contact' ? 'text-blue-500' : ''}`} href={"/contact"}>Contact</Link></li>
         </>

@@ -100,5 +100,117 @@
       "image": "https://images.unsplash.com/photo-1587202392411-e0e252a7443e?w=500&q=80",
       "description": "Dual fan cooling pad for laptops up to 17 inches."
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Galpaguchchha",
+      "author": "Rabindranath Tagore",
+      "category": "Short Stories",
+      "price": 1000,
+      "stock": 15,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=500&q=80",
+      "description": "An immortal collection of short stories by the Nobel Laureate."
+    },
+    {
+      "id": 2,
+      "title": "Srikanta",
+      "author": "Sarat Chandra Chattopadhyay",
+      "category": "Novel",
+      "price": 420,
+      "stock": 10,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&q=80",
+      "description": "One of the finest wanderer chronicles in Bengali literature."
+    },
+    {
+      "id": 3,
+      "title": "Pather Panchali",
+      "author": "Bibhutibhushan Bandyopadhyay",
+      "category": "Classic",
+      "price": 380,
+      "stock": 12,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&q=80",
+      "description": "A timeless saga of rural life through the eyes of Apu and Durga."
+    },
+    {
+      "id": 4,
+      "title": "Nondito Noroke",
+      "author": "Humayun Ahmed",
+      "category": "Novel",
+      "price": 250,
+      "stock": 25,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=500&q=80",
+      "description": "The debut novel of Humayun Ahmed, depicting powerful human emotions."
+    },
+    {
+      "id": 5,
+      "title": "Padma Nadir Majhi",
+      "author": "Manik Bandyopadhyay",
+      "category": "Novel",
+      "price": 300,
+      "stock": 18,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=500&q=80",
+      "description": "A vivid portrayal of the struggles in the lives of fishermen."
+    },
+    {
+      "id": 6,
+      "title": "Lalsalu",
+      "author": "Syed Waliullah",
+      "category": "Social Novel",
+      "price": 280,
+      "stock": 20,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=500&q=80",
+      "description": "A classic protest against religious hypocrisy and superstition."
+    },
+    {
+      "id": 7,
+      "title": "Agnibeena",
+      "author": "Kazi Nazrul Islam",
+      "category": "Poetry",
+      "price": 320,
+      "stock": 15,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=500&q=80",
+      "description": "The fiery collection of poems by the Rebel Poet."
+    },
+    {
+      "id": 8,
+      "title": "Shonkhonil Karagar",
+      "author": "Humayun Ahmed",
+      "category": "Novel",
+      "price": 240,
+      "stock": 30,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=500&q=80",
+      "description": "A beautiful representation of the joys and sorrows of a middle-class family."
+    },
+    {
+      "id": 9,
+      "title": "Khoabnama",
+      "author": "Akhtaruzzaman Elias",
+      "category": "Epic Novel",
+      "price": 600,
+      "stock": 8,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=500&q=80",
+      "description": "An epic novel blending history, myth, and social reality."
+    },
+    {
+      "id": 10,
+      "title": "Paradoxical Sajid",
+      "author": "Arif Azad",
+      "category": "Contemporary",
+      "price": 350,
+      "stock": 40,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=500&q=80",
+      "description": "A series of stories defending faith with logic."
+    }
   ]
 }
