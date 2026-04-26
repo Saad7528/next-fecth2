@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const BookCard = ({ book }) => {
@@ -10,7 +11,9 @@ const BookCard = ({ book }) => {
                 <p>{price}</p>
                 <p>{description}</p>
                 <div className="justify-end card-actions">
-                    <button className="btn btn-primary">Buy Now</button>
+                    <Link href={`http://localhost:3000/books/${book.id}`}>
+                    <button className="btn btn-primary">Show Book Details</button>
+                    </Link>
                 </div>
             </div>
         </div>
